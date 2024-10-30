@@ -1,0 +1,17 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /home/se7en/Desktop/ScalaWeatherApp/weather-app/src/main/scala/example/controller/WeatherController.scala:22:33 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m22 |[0m            [33mval[0m [36merrorOpt[0m = (resp \ [31m"error"[0m).asOpt[[35mString[0m][0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                            ^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mvalue \ is not a member of spray.json.JsValue, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mOne of the following imports might make progress towards fixing the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  import akka.http.impl.util.JavaMapping.Implicits.convertToScala[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  import akka.http.javadsl.server.RoutingJavaMapping.Implicits.convertToScala[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/se7en/Desktop/ScalaWeatherApp/weather-app/src/main/scala/example/controller/WeatherController.scala:28:58 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m28 |[0m                    entity = JsObject([31m"error"[0m -> JsString(error)).compactPrint[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                          ^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                                        Not found: error[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
