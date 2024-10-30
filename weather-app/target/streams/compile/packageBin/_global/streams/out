@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/weather-app_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/controller[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/controller[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/controller/WeatherController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/controller/WeatherController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/controller/WeatherController.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/controller/WeatherController.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Routes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/Routes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Routes.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/Routes.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/Routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/model/WeatherResponse.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/model/WeatherResponse.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/model/WeatherResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/model/WeatherResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/model/WeatherResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/model/WeatherResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/service/WeatherService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/service/WeatherService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/service/WeatherService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/service/WeatherService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/se7en/Desktop/ScalaWeatherApp/weather-app/target/scala-3.3.0/classes/example/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
